@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Here are some scattered configuration files and scripts:  
+[CarameowCookie’s Gists](https://gist.github.com/CarameowCookie)
+
+这里有一些散的配置文件和脚本：  
+[CarameowCookie 的 Gists](https://gist.github.com/CarameowCookie)
+
+***
+
+This page is still a work in progress.
+
+本页面尚未完工。
